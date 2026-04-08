@@ -3,6 +3,7 @@
 
 🎓 Psychology student at Banaras Hindu University  
 🧠 Interested in human behavior, mental health, and applying psychology in real life 
+
 🌱 Currently exploring opportunities, internships, and self-growth  
 
 ---
