@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**gunjitakishor/gunjitakishor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gunjita 👋
 
-Here are some ideas to get you started:
+🎓 Psychology student at Banaras Hindu University  
+🧠 Interested in human behavior, mental health, and applying psychology in real life 
+🌱 Currently exploring opportunities, internships, and self-growth  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I'm focusing on
+- Understanding people beyond textbooks  
+- Building real-world experience through internships  
+- Improving communication and observation skills  
+
+---
+
+## 🎯 Goals
+- Gain meaningful internship experience  
+- Explore career paths in psychology  
+- Build a strong personal and professional profile  
+
+---
+
+## 📫 Contact
+kishorgunjita@gmail.com
